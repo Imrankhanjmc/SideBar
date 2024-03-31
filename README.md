@@ -1,5 +1,6 @@
 # SideBar
-Sidebar with React Router in React 
+Sidebar with React Router in React
+
 Step 1: 
   Create New React App or Add To Existing React Application
 
